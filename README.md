@@ -1,7 +1,7 @@
 # BugTracker-Reino de la Oscuridad-WoW
 
 Sitio oficial para reportar errores dentro de Reino de la Oscuridad-WoW 4.3.4.
-Aporte realizado por el Sr. Dennis y el Sr. Albert.
+Aporte realizado por el proyecto Reino de la Oscuridad
 
  
 ## Reglas para subir reportes:
